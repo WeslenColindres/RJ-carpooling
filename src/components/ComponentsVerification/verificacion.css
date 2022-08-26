@@ -1,0 +1,97 @@
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	text-decoration: none;
+	border: none;
+	outline: none;
+}
+body{
+    margin-top: 0%;
+}
+.container{
+    
+    display: flex;
+    flex-direction: column;
+   text-align: center;
+   max-height: 100%;
+   align-items: center;
+   align-content: center;
+   background-color:#00b2bb;
+    border: none;
+    border-radius: 8px;
+    padding: 20px 0 28px;
+}
+.container-todo{
+    display: flex;
+    flex-direction: column;
+   text-align: center;
+   height: 100%;
+   align-items: center;
+   align-content: center;
+   background-color:#00b2bb;
+    border: none;
+    border-radius: 8px;
+    margin: 40px 0 0;
+    padding: 20px 0 28px;
+}
+textarea{
+    max-width: 1000px;
+    
+}
+.botones{
+    display: flex;
+    flex-direction: row;
+}
+
+.infoProfile{
+    background-color:#c8eef0;
+    border: none;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+    box-sizing: border-box;
+    margin: 40px 0 0;
+    padding: 20px 20px 28px;
+    width: auto;
+}
+.image{
+    width: 100px;
+    height: 100%;
+    margin: 0 auto;
+    padding-bottom: 30px;
+}
+.imagePadd{
+    width: 100px;
+    height: 100%;
+    margin: 0 auto;
+    padding-bottom: 10px;
+    padding-top: 50px;
+}
+.container-carousel{
+    background-color:#c8eef0;
+    border: none;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+    box-sizing: border-box;
+    margin: 40px 0 0;
+    padding: 20px 0 28px;
+}
+
+.contenedorLista{
+    display: flex;
+    flex-direction: column;
+   text-align: center;
+   align-items: center;
+   align-content: center;
+}
+
+
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 30px;
+}
+p{
+    font-size: 20px;
+}
