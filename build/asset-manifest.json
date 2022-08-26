@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RJ-carpooling/static/css/main.abe5c25b.css",
+    "main.js": "/RJ-carpooling/static/js/main.56e3d6cb.js",
+    "static/js/787.11b9a3c6.chunk.js": "/RJ-carpooling/static/js/787.11b9a3c6.chunk.js",
+    "index.html": "/RJ-carpooling/index.html",
+    "main.abe5c25b.css.map": "/RJ-carpooling/static/css/main.abe5c25b.css.map",
+    "main.56e3d6cb.js.map": "/RJ-carpooling/static/js/main.56e3d6cb.js.map",
+    "787.11b9a3c6.chunk.js.map": "/RJ-carpooling/static/js/787.11b9a3c6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abe5c25b.css",
+    "static/js/main.56e3d6cb.js"
+  ]
+}
